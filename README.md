@@ -1,6 +1,8 @@
 # bom-intelligence — BOM Cost & Risk Engine
 
 <p align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0ea5e9?style=flat-square)](https://aditya0si.github.io/bom-intelligence/)
   <img src="https://img.shields.io/badge/saving--23%25%20(%248.84)-success?style=flat-square" />
   <img src="https://img.shields.io/badge/alternates-41-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/single--source-11%E2%86%920-orange?style=flat-square" />
