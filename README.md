@@ -1,5 +1,7 @@
 # bom-intelligence — BOM Cost & Risk Engine
 
+[![CI](https://github.com/aditya0si/bom-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/aditya0si/bom-intelligence/actions)
+
 <p align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-0ea5e9?style=flat-square)](https://aditya0si.github.io/bom-intelligence/)
