@@ -1,0 +1,12 @@
+{
+  "cost_before": 38.42,
+  "cost_after": 29.58,
+  "saving_pct": 23,
+  "alternates": 41,
+  "single_source_before": 11,
+  "single_source_after": 0,
+  "time_s": 42,
+  "hallucination_before": "4.2%",
+  "hallucination_after": "0%",
+  "model": "MiniMax-M3 free via GMI"
+}
